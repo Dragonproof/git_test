@@ -1,0 +1,2 @@
+Hello world!
+Here`s my first steps into programming. Will be funny to see theese in a few years back. Anyway, now keep cracking on Odin.
